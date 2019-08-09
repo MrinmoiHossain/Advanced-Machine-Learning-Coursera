@@ -1,8 +1,8 @@
-<p align="center">
+<div align="center">
     <img src="./background.png">
     <h1>Advanced Machine Learning</h1>
     <h2>National Research University Higher School of Economics</h2>
-</p>
+</div>
 
 ### Hardware Requirements:
 - Coursera Notebooks (cloud)
