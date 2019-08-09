@@ -1,9 +1,8 @@
-![background](./background.png)
-<center>Advanced Machine Learning</center>
-<center>National Research University Higher School of Economics</center>
-
-# Advanced-Machine-Learning-Coursera
-
+<p align="center">
+    <img src="./background.png">
+    <h1>Advanced Machine Learning</h1>
+    <h2>National Research University Higher School of Economics</h2>
+</p>
 
 ### Hardware Requirements:
 - Coursera Notebooks (cloud)
