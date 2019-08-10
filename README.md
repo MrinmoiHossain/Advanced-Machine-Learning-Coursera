@@ -52,3 +52,28 @@
     * Quiz: None
     * Assignment: Image Captioning Final Project
 
+
+## Course - 2
+### How to Win a Data Science Competition: Learn from Top Kagglers - [Coursera](https://www.coursera.org/learn/competitive-data-science/) - [GitHub](https://github.com/MrinmoiHossain/Advanced-Machine-Learning-Coursera/tree/master/Course_2-How_to_Win_A_Data_Science_Competition_Learn_from_Top_Kagglers) - [Certificate]()
+
+#### Table of Contents
+* Week 1
+    * Lesson Topic: 
+    * Quiz: 
+    * Assignment: 
+* Week 2
+    * Lesson Topic: 
+    * Quiz: 
+    * Assignment: 
+* Week 3
+    * Lesson Topic: 
+    * Quiz: 
+    * Assignment: 
+* Week 4
+    * Lesson Topic: 
+    * Quiz: 
+    * Assignment: 
+* Week 5
+    * Lesson Topic: 
+    * Quiz: 
+    * Assignment: 
